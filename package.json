@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "narendra lakhatariya",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narendraace/nodejs-learning.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "homepage": "https://github.com/narendraace/nodejs-learning",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.10",
+    "morgan": "^1.10.0"
+  }
+}
